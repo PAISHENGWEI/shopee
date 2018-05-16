@@ -6,3 +6,6 @@
 
 # technology
 * Bootstrap
+  * 使用輪播
+  * 導覽列
+  * 卡片
