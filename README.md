@@ -5,7 +5,7 @@
 #### 網頁排版設計與練習
 
 # technology
-* Bootstrap
-  * 使用輪播
-  * 導覽列
-  * 卡片
+* Bootstrap  
+  * 使用輪播  
+  * 導覽列  
+  * 卡片  
